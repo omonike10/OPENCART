@@ -1,0 +1,15 @@
+{
+  "name": "opencart",
+  "version": "1.0.0",
+  "description": "end to end test for OpenCart",
+  "main": "index.js",
+  "scripts": {
+    "runner": "cypress open"
+  },
+  "author": "Omonike",
+  "license": "ISC",
+  "devDependencies": {
+    "@cypress/xpath": "^2.0.3",
+    "cypress": "^12.9.0"
+  }
+}
